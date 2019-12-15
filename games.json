@@ -249,7 +249,7 @@
 		"play": "https://stadia.google.com/player/c121d8b3fa744b52b71bf3599cb3da7frcp1",
 		"store": "https://stadia.google.com/store/details/1/sku/6e98f34bbcae444a99816b8f2613452b",
 		"img": "https://images.squarespace-cdn.com/content/v1/54afb782e4b0961c049713ff/1457469078419-7N18WTTONDYA9Q1HT0JH/ke17ZwdGBToddI8pDm48kGB_lQOjaMDAu5gWXHxt9bEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnMerqlGcj59a2zrnaMkWHKuwem0xF-yCBAMme-gLHGk1A9LGTF1VaJ5rrzGp-e14Mw/Thumper_logo_alpha_presskit.png?format=2500w",
-		"hasIcon": false
+		"hasIcon": true
 	},
 	"Tomb Raider: Definitive Edition": {
 		"aliases": [

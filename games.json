@@ -117,7 +117,7 @@
 			"gylt"
 		],
 		"play": "https://stadia.google.com/player/18a3cc2bb111419c8ac873086d04dfaarcp1",
-		"store": "missing",
+		"store": "https://stadia.google.com/store/details/18a3cc2bb111419c8ac873086d04dfaarcp1/sku/9ac5597c3f4a4e648c9ae56bac3d1b32",
 		"img": "https://i.imgur.com/VAqRO9C.png",
 		"hasIcon": false
 	},
@@ -130,7 +130,7 @@
 			"jd2020"
 		],
 		"play": "missing",
-		"store": "missing",
+		"store": "https://stadia.google.com/store/details/4b7f307c37364d659118bf7d435733c7rcp1/sku/3feef74cbacf4ba39b5d9087e0dfb9e4",
 		"img": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/j/just-dance-2020-switch/Switch_JD2020_description-char.png",
 		"hasIcon": false
 	},
@@ -139,7 +139,7 @@
 			"kine"
 		],
 		"play": "https://stadia.google.com/player/da94f3aa88b24eb6ae6fdff798f73355rcp1",
-		"store": "missing",
+		"store": "https://stadia.google.com/store/details/da94f3aa88b24eb6ae6fdff798f73355rcp1/sku/8d3124a81f6444219acd3d99c90a5658",
 		"img": "https://i.imgur.com/7R0fple.png",
 		"hasIcon": false
 	},
@@ -164,7 +164,7 @@
 			"mortalcombat"
 		],
 		"play": "https://stadia.google.com/player/7bfbcba307114ab88ae4231da2ec85d3rcp1",
-		"store": "missing",
+		"store": "https://stadia.google.com/store/details/7bfbcba307114ab88ae4231da2ec85d3rcp1/sku/f3f250e8a4d54f60ba730fbc04268052",
 		"img": "https://i.imgur.com/DkZPjI9.png",
 		"gameTypes": [],
 		"hasIcon": false
@@ -188,20 +188,8 @@
 			"r2"
 		],
 		"play": "missing",
-		"store": "missing",
+		"store": "https://stadia.google.com/store/details/8615c857d7d54efebd94fe17e3f2896crcp1/sku/78ea22fb5c054167bb722322b469f33f",
 		"img": "https://i.imgur.com/cX7pIpD.png",
-		"hasIcon": false
-	},
-	"Rise of the Tomb Raider": {
-		"aliases": [
-			"riseofthetombraider",
-			"rottr",
-			"rtr",
-			"rise"
-		],
-		"play": "missing",
-		"store": "missing",
-		"img": "https://i.imgur.com/MixCvGq.png",
 		"hasIcon": false
 	},
 	"Red Dead Redemption 2": {
@@ -214,6 +202,18 @@
 		"play": "https://stadia.google.com/player/2152a1e96d5b47b18a5df7ca9bb0751frcp1",
 		"store": "https://stadia.google.com/store/details/1/sku/f790e37b6161477188923408085528a1",
 		"img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Dead_Redemption_2_Logo.png",
+		"hasIcon": false
+	},
+	"Rise of the Tomb Raider": {
+		"aliases": [
+			"riseofthetombraider",
+			"rottr",
+			"rtr",
+			"rise"
+		],
+		"play": "missing",
+		"store": "https://stadia.google.com/store/details/e5c6ec7bf437491ea4ac0917df8f9640rcp1/sku/f5562aaf93cb46e081d317263bde3013",
+		"img": "https://i.imgur.com/MixCvGq.png",
 		"hasIcon": false
 	},
 	"Samurai Shodown": {
@@ -237,7 +237,7 @@
 			"shadow"
 		],
 		"play": "missing",
-		"store": "missing",
+		"store": "https://stadia.google.com/store/details/efa3b6108d3e41689b2223ba9d48f5c8rcp1/sku/bb9bcb490fd145d9997c8b3ff3f1039f",
 		"img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Shadow_of_the_Tomb_Raider.png",
 		"hasIcon": false
 	},

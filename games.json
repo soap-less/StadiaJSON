@@ -25,6 +25,18 @@
 		"img": "https://www.koeitecmoamerica.com/attackontitan2/finalbattle/img/top/topinfo-logo.png",
 		"hasIcon": false
 	},
+	"Borderlands 3": {
+		"aliases": [
+			"borderlands3",
+			"borderlands",
+			"bl3"
+		],
+		"play": "missing",
+		"store": "https://stadia.google.com/store/details/be080ad40b434ca289166031d3e88623rcp1/sku/958f4c0900c64e7e83b9218ab479304e",
+		"img": "https://cdn.2kgames.com/2019/04/03/5ca421d15916bBL3_logo_GAME_PAGE.png",
+		"gameTypes": [],
+		"hasIcon": false
+	},
 	"Darksiders Genesis": {
 		"aliases": [
 			"darksiders",
@@ -59,6 +71,21 @@
 			"story"
 		],
 		"hasIcon": true
+	},
+	"DRAGON BALL XENOVERSE 2": {
+		"aliases": [
+			"dragonballxenoverse2",
+			"dragonball",
+			"dbx2",
+			"dbx",
+			"xenoverse",
+			"xenoverse2"
+		],
+		"play": "missing",
+		"store": "https://stadia.google.com/store/details/80a70c13987841b3a2aedbcac54784abrcp1/sku/66f1b5a13ee54b7aa70aebfddd18c085",
+		"img": "http://www.sggaminginfo.com/wp-content/uploads/2016/05/dragon-ball-xenoverse-2-logo-1024x488.png",
+		"gameTypes": [],
+		"hasIcon": false
 	},
 	"Farming Simulator 2019": {
 		"aliases": [

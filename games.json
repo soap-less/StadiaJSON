@@ -73,7 +73,7 @@
 		"play": "https://stadia.google.com/player/ebf235012b054269af70eee901bc85cfrcp1",
 		"store": "https://stadia.google.com/store/details/1/sku/c50094b71d054fc28f3116245d9dbc9a",
 		"img": "https://data2.origin.com/asset/content/dam/originx/web/app/games/farming-simulator/farming-simulator-19/gdp/fs19_gdp-logo_800%C3%97400.png/29a2b299-36cd-4bcb-9d04-27bdeaadc205/original.png",
-		"hasIcon": false
+		"hasIcon": true
 	},
 	"Final Fantasy XV": {
 		"aliases": [

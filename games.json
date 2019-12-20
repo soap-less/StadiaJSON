@@ -128,6 +128,18 @@
 		"gameTypes": [],
 		"hasIcon": false
 	},
+	"Ghost Recon Breakpoint": {
+		"aliases": [
+			"ghostreconbreakpoint",
+			"tomclancysghostreconbreakpoint",
+			"grbp"
+			],
+		"play": "https://stadia.google.com/player/11c9ece5b3a045908d77cf2b66adb010rcp1",
+		"store": "https://stadia.google.com/store/details/11c9ece5b3a045908d77cf2b66adb010rcp1/sku/06e101d56a03472bb6c204aee96187d7",
+		"img": "https://lh3.googleusercontent.com/y1bpCppB4lhe9kZTUAMWn1Q1HIo-77SrY-OVbAQeRb9bgkMDfpXX2WO22eNghVsdDbqMmZz2cojn3SQKYGu-5JUVEHYEbC5zKZvgZ26eJXaxEodJjFN30adOFQ=s0-d-rw",
+		"gameTypes": [],
+		"hasIcon": false
+	},
 	"Grid": {
 		"aliases": [
 			"grid",

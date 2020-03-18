@@ -77,6 +77,20 @@
     "sku": "bd70626ec3834dedbc6dda5b956f7648",
     "gameId": "20e792017ab34ad89b70dc17a5c72d68rcp1"
   },
+  "Tom Clancy's The Division 2": {
+    "aliases": [
+      "thedivision2",
+      "tomclancysthedivision2",
+      "tomclancysthedivision2",
+      "division2"
+    ],
+    "img": "https://gamingbolt.com/wp-content/uploads/2019/03/the-division-2.jpg",
+    "gameTypes": [],
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "bed63eac149542078fa5b9d6f20f5f2f",
+    "gameId": "d43cd46c81734ca48e1a615310d0237crcp1"
+  },
   "DRAGON BALL XENOVERSE 2": {
     "aliases": [
       "dragonballxenoverse2",

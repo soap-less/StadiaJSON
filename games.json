@@ -91,6 +91,18 @@
     "sku": "bed63eac149542078fa5b9d6f20f5f2f",
     "gameId": "d43cd46c81734ca48e1a615310d0237crcp1"
   },
+  "DOOM Eternal": {
+    "aliases": [
+      "doometernal",
+      "doom2020"
+    ],
+    "img": "https://scdn.slashgear.com/wp-content/uploads/2020/03/doom_eternal_main-1280x720.jpg",
+    "gameTypes": [],
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "17affc92b9ca47a7b64e748609ed25af",
+    "gameId": "632522c846a041ce801e47b96ba2e265rcp1"
+  },
   "DRAGON BALL XENOVERSE 2": {
     "aliases": [
       "dragonballxenoverse2",

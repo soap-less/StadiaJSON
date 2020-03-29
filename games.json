@@ -327,6 +327,19 @@
     "sku": "bb9bcb490fd145d9997c8b3ff3f1039f",
     "gameId": "efa3b6108d3e41689b2223ba9d48f5c8rcp1"
   },
+  "SteamWorld Quest: Hand of Gilgamech": {
+    "aliases": [
+      "steamworldquest",
+      "swq",
+      "steamworldquesthandofgilgamech",
+      "swqhog"
+    ],
+    "img": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/steamworld-quest-hand-of-gilgamech-switch/steamworld-quest-hand-of-gilgamech-switch-hero.jpg",
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "a1afa4eca7b24713a9bcf3421dd85a13",
+    "gameId": "b845605f8eb447008f3f0d2295265ffdrcp1"
+  },
   "Thumper": {
     "aliases": [
       "thumper",

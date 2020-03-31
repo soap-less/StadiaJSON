@@ -4,7 +4,6 @@
       "assassinscreedodyssey",
       "aco",
       "ac:o",
-      "assassin'screedodyssey",
       "assassinscreed"
     ],
     "img": "https://static-dm.akamaized.net/stella/prod/img/ac_logo-desktop_ncsa.png",
@@ -18,7 +17,6 @@
       "attackontitan2finalbattle",
       "attackontitan",
       "aot",
-      "attackontitan2:finalbattle",
       "attackontitanfinalbattle"
     ],
     "img": "https://www.koeitecmoamerica.com/attackontitan2/finalbattle/img/top/topinfo-logo.png",
@@ -71,9 +69,8 @@
       "destiny2",
       "destiny",
       "d2",
-      "destiny2:thecollection",
       "destiny2thecollection",
-      "d2:tc",
+      "d2tc",
       "thecollection"
     ],
     "img": "https://i.imgur.com/BOrybrw.png",
@@ -92,7 +89,6 @@
   "Tom Clancy's The Division 2": {
     "aliases": [
       "thedivision2",
-      "tomclancysthedivision2",
       "tomclancysthedivision2",
       "division2"
     ],
@@ -367,8 +363,7 @@
     "aliases": [
       "tombraider",
       "tombraider2013",
-      "tombraiderdefinitiveedition",
-      "tombraider:definitiveedition"
+      "tombraiderdefinitiveedition"
     ],
     "img": "https://i.imgur.com/AWeCwU8.png",
     "hasIcon": true,
@@ -381,8 +376,7 @@
       "trialsrising",
       "trials",
       "tr",
-      "tombraiderdefinitiveedition",
-      "tombraider:definitiveedition"
+      "tombraiderdefinitiveedition"
     ],
     "img": "https://i.imgur.com/ICnwKkt.png",
     "hasIcon": true,
@@ -393,10 +387,8 @@
   "Wolfenstein: Youngblood": {
     "aliases": [
       "wolfensteinyoungblood",
-      "wolfenstein:youngblood",
       "wolfenstein",
       "wy",
-      "w:yb",
       "wyb"
     ],
     "img": "https://i.imgur.com/pXCqih9.png",

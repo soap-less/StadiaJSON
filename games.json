@@ -40,6 +40,18 @@
     "sku": "958f4c0900c64e7e83b9218ab479304e",
     "gameId": "be080ad40b434ca289166031d3e88623rcp1"
   },
+  "The Crew 2": {
+    "aliases": [
+      "thecrew2",
+      "thecrew"
+    ],
+    "img": "https://hb.imgix.net/83617edc812f7b47fd58f55ec6fcdc77be8274a2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=732bdb9b98be3f413441e59157465645",
+    "gameTypes": [],
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "94db678cbb6342c3bc0e58f71130b3fb",
+    "gameId": "cc97434908874852a6705d255a605dc8rcp1"
+  },
   "Darksiders Genesis": {
     "aliases": [
       "darksiders",

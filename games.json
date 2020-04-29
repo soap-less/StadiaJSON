@@ -270,6 +270,17 @@
     "sku": "b6d1b295ed0d4f1080576ac5d51df6d0",
     "gameId": "2afad3696b394f669b49e4c0b6016958rcp1"
   },
+  "PLAYERUNKNOWN'S BATTLEGROUNDS": {
+    "aliases": [
+      "pubg",
+      "playerunknownsbattlegrounds"
+    ],
+    "img": "",
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "71e7c4fc5ca24f0f8301da6d042bf18e",
+    "gameId": "a4c5eb3f4e614b7fadbba64cba68f849rcp1"
+  },
   "Rage 2": {
     "aliases": [
       "rage2",

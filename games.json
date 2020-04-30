@@ -171,6 +171,17 @@
     "sku": "32a0791a88474f08ad7a687846b786f2",
     "gameId": "8a3cc52ad2334b1e91ded77bc43644e0rcp1"
   },
+  "Get Packed": {
+    "aliases": [
+      "getpacked"
+    ],
+    "img": "",
+    "gameTypes": [],
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "a6ffc113bea9495b84581796893ebf50",
+    "gameId": "73182869b2a644bdbef46984b96e1721rcp1"
+  },
   "Tom Clancy's Ghost Recon Breakpoint": {
     "aliases": [
       "ghostreconbreakpoint",

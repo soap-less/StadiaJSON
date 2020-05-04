@@ -32,7 +32,7 @@
     "Trials Rising",
     "Wolfenstein: Youngblood"
   ],
-  "gamesWithCustomApp": [
-    ["Destiny 2", "706784099519430727"]
-  ]
+  "gamesWithCustomApp": {
+    "Destiny 2": "706784099519430727"
+  }
 }

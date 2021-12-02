@@ -304,6 +304,18 @@
     "sku": "78ea22fb5c054167bb722322b469f33f",
     "gameId": "8615c857d7d54efebd94fe17e3f2896crcp1"
   },
+  "Rainbow Six Siege": {
+    "aliases": [
+      "r6",
+      "rainbow",
+      "siege"
+    ],
+    "img": "https://cdn.escharts.com/uploads/public/5ac/392/055/5ac3920553eca591864009.png",
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "7d138394b4e84e95aaee37d8e9ce27acp",
+    "gameId": "ab3353cfcd1f4a938e40b0ba32c72b64rcp1"
+  },
   "Red Dead Redemption 2": {
     "aliases": [
       "reddeadredemption2",
@@ -406,6 +418,18 @@
     "cgdbId": "",
     "sku": "01e95e73256c465fb5620fc574446413",
     "gameId": "a031419410cc48469ff8954ea0732640rcp1"
+  },
+  "Watch Dogs Legion": {
+    "aliases": [
+      "watch dogs",
+      "legion",
+      "wl"
+    ],
+    "img": "https://gaming.tobii.com/wp-content/uploads/2019/10/watch-dogs-legion-logo.png",
+    "hasIcon": true,
+    "cgdbId": "",
+    "sku": "3a7288e1be9d4e92bc87c2138aa547c1p",
+    "gameId": "deb490c166544813bf2ab73f4c6e2aa0rcp1"
   },
   "Wolfenstein: Youngblood": {
     "aliases": [
